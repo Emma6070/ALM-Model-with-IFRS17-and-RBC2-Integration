@@ -1,0 +1,15 @@
+# Core dependencies
+prophet>=1.1.4        # For time series forecasting
+pandas>=2.0.0         # For data manipulation
+numpy>=1.24.0         # For numerical computations
+matplotlib>=3.7.0     # For plotting
+openpyxl>=3.1.0      # For Excel file operations
+
+# Additional dependencies required by Prophet
+cmdstanpy>=1.1.0      # Required for Prophet
+plotly>=5.13.0        # For interactive plots
+holidays>=0.25        # For holiday handling in Prophet
+tqdm>=4.65.0          # For progress bars
+convertdate>=2.4.0    # For date conversions
+setuptools>=65.6.3    # For package setup
+python-dateutil>=2.8.2 # For date handling
