@@ -1,7 +1,7 @@
 # Insurance ALM Model with IFRS17 and RBC2 Integration
 
 ## Description
-An integrated Asset-Liability Management (ALM) model that combines Prophet forecasting with IFRS17 and RBC2 regulatory requirements for insurance companies. The model provides comprehensive analysis including technical provisions calculation, capital adequacy assessment, and stress testing capabilities.
+An integrated Asset-Liability Management (ALM) model that combines Prophet forecasting with IFRS17 and RBC2 regulatory requirements for insurance companies. The model provides analysis including technical provisions calculation, capital adequacy assessment, and stress testing capabilities.
 
 ## Features
 - IFRS17 Technical Provisions calculation
