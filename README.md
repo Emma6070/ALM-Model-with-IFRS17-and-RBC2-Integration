@@ -62,14 +62,6 @@ python prophetRBC2IFRS17.py
   - Performance Dashboard
 - Visualization plots for key metrics
 
-## License
-MIT License
-
-## Author
-Emma
-
-## Version
-1.0.0
 
 ## Notes
 - Customize risk factors and parameters according to your jurisdiction
